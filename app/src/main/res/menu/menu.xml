@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/action_Home"
+        android:enabled="true"
+        android:title="Home"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_Search"
+        android:enabled="true"
+        android:title="Search"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_Add"
+        android:enabled="true"
+        android:title="Add"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>

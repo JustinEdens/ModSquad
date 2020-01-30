@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="throttle">
+        <item>Stock</item>
+        <item>Bored</item>
+    </string-array>
+
+    <string-array name="injector">
+        <item>Stock</item>
+        <item>600cc</item>
+    </string-array>
+
+    <string-array name="pulley">
+        <item>Stock</item>
+        <item>Light Weight</item>
+    </string-array>
+
+    <string-array name="diameter">
+        <item>Stock</item>
+        <item>1.5"</item>
+        <item>2.0"</item>
+        <item>2.5"</item>
+        <item>3.0"</item>
+        <item>3.5"</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Year</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+        <item>2015</item>
+    </string-array>
+
+    <string-array name="make">
+        <item>Make</item>
+        <item>Chevy</item>
+        <item>Ford</item>
+        <item>Subaru</item>
+        <item>Toyota</item>
+    </string-array>
+
+    <string-array name="model">
+        <item>Model</item>
+        <item>86</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Category</item>
+        <item>Engine</item>
+        <item>Exhaust</item>
+    </string-array>
+
+
+</resources>
